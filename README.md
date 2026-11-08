@@ -57,6 +57,7 @@ A benchmarking project evaluating the accuracy, latency, throughput and memory c
 - Probability and Measure Theory
 - Quantitative Finance
 
+---
 
 Contact me : +33 6 70 26 37 06
 
