@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi, I'm Martin Rodriguez 👋</h1>
 
-<h3 align="center">Computer Science & Finance Student | Machine Learning | Quantitative Research</h3>
+<h3 align="center">Computer Science & Finance Student</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/martin--rodriguez">
@@ -13,11 +13,9 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Computer Science & Finance student at JUNIA HEI.
-- 📐 Studying additional Mathematics coursework at Sorbonne Université.
-- 🤖 Interested in Machine Learning, AI and Data Science.
-- 📊 Exploring Quantitative Finance, stochastic modelling and financial markets.
-- 🔬 Building projects around model evaluation, robustness and applied machine learning.
+Computer Science & Finance student at JUNIA HEI, also studying Mathematics at Sorbonne Université.
+Interested in Machine Learning, Artificial Intelligence and Quantitative Finance.
+Passionate about mathematical modelling, data-driven solutions and applied research.
 
 ---
 
