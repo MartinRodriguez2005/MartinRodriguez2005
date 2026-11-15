@@ -1,20 +1,20 @@
+# Hi, I'm Martin 👋
 
-<h1 align="center">Hi, I'm Martin 👋</h1>
-
-<h3 align="center">Computer Science & Finance Student</h3>
+### Computer Science & Finance Student
 
 <p align="center">
   <a href="https://www.linkedin.com/in/martin--rodriguez">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
   </a>
-
+</p>
 
 ---
 
 ### 👨‍💻 About Me
 
 Computer Science & Finance student at JUNIA HEI, also studying Mathematics at Sorbonne Université.
-Interested in Machine Learning, Artificial Intelligence and Quantitative Finance.
+
+Interested in Machine Learning, Artificial Intelligence and Quantitative Finance.  
 Passionate about mathematical modelling, data-driven solutions and applied research.
 
 ---
@@ -33,18 +33,31 @@ Passionate about mathematical modelling, data-driven solutions and applied resea
 **Tools**
 - Git, GitHub
 - Excel, VBA
-  
 
+---
 
 ### 🚀 Featured Projects
 
-**Multimodal Model Evaluation & Robustness Benchmark**
+**1. Deep Optimal Stopping** — *Current focus*
+
+A quantitative finance research project exploring numerical methods for derivative pricing and optimal stopping, combining stochastic processes, Monte Carlo simulation and deep learning.
+
+- Geometric Brownian Motion simulation
+- Black–Scholes and Forward pricing
+- Longstaff–Schwartz and Deep Optimal Stopping (in development)
+- Python, NumPy, SciPy, PyTorch & Streamlit
+
+[Live Demo](https://deep-optimal-stopping.streamlit.app/)
+
+**2. Multimodal Model Evaluation & Robustness Benchmark** — *Temporarily paused*
 
 A benchmarking project evaluating the accuracy, latency, throughput and memory consumption of vision-language models under different conditions.
 
 - Qwen2.5-VL-3B-Instruct
 - PyTorch & Hugging Face
 - Quantization and robustness testing
+
+Development is currently paused while I focus on completing Deep Optimal Stopping.
 
 [View Project](https://github.com/MartinRodriguez2005/seldon-research)
 
@@ -56,8 +69,8 @@ A benchmarking project evaluating the accuracy, latency, throughput and memory c
 - Statistical Learning
 - Probability and Measure Theory
 - Quantitative Finance
+- Numerical Methods for Derivative Pricing
 
 ---
 
-Contact me : +33 6 70 26 37 06
-
+Contact me: +33 6 70 26 37 06
