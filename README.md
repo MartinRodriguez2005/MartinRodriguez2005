@@ -1,6 +1,6 @@
-# Hi, I'm Martin 👋
+<h1 align="center">Hi, I'm Martin 👋</h1>
 
-### Computer Science & Finance Student
+<h3 align="center">Computer Science & Finance Student</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/martin--rodriguez">
